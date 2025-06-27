@@ -1,0 +1,60 @@
+{
+  "categories": [
+    {
+      "Id": 1,
+      "name": "Utensili Manuali",
+      "slug": "utensili-manuali",
+      "parentId": null,
+      "image": "https://images.unsplash.com/photo-1609205994399-d0e6b2b5f05c?w=400&h=300&fit=crop"
+    },
+    {
+      "Id": 2,
+      "name": "Elettroutensili",
+      "slug": "elettroutensili",
+      "parentId": null,
+      "image": "https://images.unsplash.com/photo-1573089030373-0e05fa4e0cfc?w=400&h=300&fit=crop"
+    },
+    {
+      "Id": 3,
+      "name": "Ferramenta",
+      "slug": "ferramenta",
+      "parentId": null,
+      "image": "https://images.unsplash.com/photo-1609205994399-d0e6b2b5f05c?w=400&h=300&fit=crop"
+    },
+    {
+      "Id": 4,
+      "name": "Strumenti di Misura",
+      "slug": "strumenti-misura",
+      "parentId": null,
+      "image": "https://images.unsplash.com/photo-1558618047-3c8c76ca7d13?w=400&h=300&fit=crop"
+    },
+    {
+      "Id": 5,
+      "name": "Attrezzature",
+      "slug": "attrezzature",
+      "parentId": null,
+      "image": "https://images.unsplash.com/photo-1609205994399-d0e6b2b5f05c?w=400&h=300&fit=crop"
+    },
+    {
+      "Id": 6,
+      "name": "Sicurezza",
+      "slug": "sicurezza",
+      "parentId": null,
+      "image": "https://images.unsplash.com/photo-1609205994399-d0e6b2b5f05c?w=400&h=300&fit=crop"
+    },
+    {
+      "Id": 7,
+      "name": "Giardinaggio",
+      "slug": "giardinaggio",
+      "parentId": null,
+      "image": "https://images.unsplash.com/photo-1609205994399-d0e6b2b5f05c?w=400&h=300&fit=crop"
+    },
+    {
+      "Id": 8,
+      "name": "Idraulica",
+      "slug": "idraulica",
+      "parentId": null,
+      "image": "https://images.unsplash.com/photo-1609205994399-d0e6b2b5f05c?w=400&h=300&fit=crop"
+    }
+  ]
+}

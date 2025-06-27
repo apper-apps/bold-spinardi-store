@@ -1,0 +1,407 @@
+{
+  "products": [
+    {
+      "Id": 1,
+      "name": "Trapano Avvitatore a Batteria 18V",
+      "description": "Trapano avvitatore professionale con batteria al litio 18V, 13mm mandrino autoserrante, 2 velocità, 20+1 posizioni di coppia. Ideale per foratura e avvitatura in legno, metallo e muratura.",
+      "price": 89.99,
+      "images": [
+        "https://images.unsplash.com/photo-1573089030373-0e05fa4e0cfc?w=400&h=300&fit=crop",
+        "https://images.unsplash.com/photo-1516298773066-c48f8e9bd92b?w=400&h=300&fit=crop"
+      ],
+      "category": "Elettroutensili",
+      "brand": "Bosch",
+      "specifications": {
+        "Tensione": "18V",
+        "Capacità mandrino": "13mm",
+        "Velocità": "2 velocità variabili",
+        "Coppia": "20+1 posizioni",
+        "Peso": "1.5kg"
+      },
+      "inStock": true,
+      "rating": 4.8
+    },
+    {
+      "Id": 2,
+      "name": "Set Chiavi Inglesi 8-22mm",
+      "description": "Set completo di chiavi inglesi professionali in acciaio al cromo vanadio, finitura lucida. Include 8 chiavi da 8mm a 22mm con supporto magnetico per l'organizzazione.",
+      "price": 34.99,
+      "images": [
+        "https://images.unsplash.com/photo-1609205994399-d0e6b2b5f05c?w=400&h=300&fit=crop",
+        "https://images.unsplash.com/photo-1584464491033-06628f3a6b7b?w=400&h=300&fit=crop"
+      ],
+      "category": "Utensili Manuali",
+      "brand": "Stanley",
+      "specifications": {
+        "Materiale": "Acciaio al cromo vanadio",
+        "Finitura": "Lucida",
+        "Dimensioni": "8-22mm",
+        "Numero pezzi": "8",
+        "Supporto": "Magnetico incluso"
+      },
+      "inStock": true,
+      "rating": 4.6
+    },
+    {
+      "Id": 3,
+      "name": "Martello da Carpentiere 500g",
+      "description": "Martello da carpentiere professionale con testa in acciaio forgiato e manico in fibra di vetro. Design ergonomico per ridurre le vibrazioni e migliorare il controllo.",
+      "price": 28.50,
+      "images": [
+        "https://images.unsplash.com/photo-1609205994399-d0e6b2b5f05c?w=400&h=300&fit=crop"
+      ],
+      "category": "Utensili Manuali",
+      "brand": "Stanley",
+      "specifications": {
+        "Peso testa": "500g",
+        "Materiale testa": "Acciaio forgiato",
+        "Manico": "Fibra di vetro",
+        "Lunghezza": "32cm",
+        "Tipo": "Carpentiere"
+      },
+      "inStock": true,
+      "rating": 4.7
+    },
+    {
+      "Id": 4,
+      "name": "Sega Circolare 1400W",
+      "description": "Sega circolare elettrica professionale 1400W con lama 190mm, guida laser, protezione inferiore e profondità di taglio regolabile fino a 65mm.",
+      "price": 125.00,
+      "images": [
+        "https://images.unsplash.com/photo-1558618047-3c8c76ca7d13?w=400&h=300&fit=crop",
+        "https://images.unsplash.com/photo-1516298773066-c48f8e9bd92b?w=400&h=300&fit=crop"
+      ],
+      "category": "Elettroutensili",
+      "brand": "Makita",
+      "specifications": {
+        "Potenza": "1400W",
+        "Diametro lama": "190mm",
+        "Profondità taglio": "65mm",
+        "Guida laser": "Sì",
+        "Peso": "4.2kg"
+      },
+      "inStock": true,
+      "rating": 4.9
+    },
+    {
+      "Id": 5,
+      "name": "Kit Punte per Trapano 50 Pezzi",
+      "description": "Set completo di punte per trapano in acciaio HSS e widia, include punte per legno, metallo e muratura. Fornito in pratica valigetta organizzata.",
+      "price": 19.99,
+      "images": [
+        "https://images.unsplash.com/photo-1609205994399-d0e6b2b5f05c?w=400&h=300&fit=crop"
+      ],
+      "category": "Utensili Manuali",
+      "brand": "Bosch",
+      "specifications": {
+        "Numero pezzi": "50",
+        "Materiali": "HSS, Widia",
+        "Gamma": "1-10mm",
+        "Applicazioni": "Legno, metallo, muratura",
+        "Valigetta": "Inclusa"
+      },
+      "inStock": true,
+      "rating": 4.4
+    },
+    {
+      "Id": 6,
+      "name": "Morsa da Banco 125mm",
+      "description": "Morsa da banco robusta in ghisa con apertura 125mm, ganasce temprate e sistema di serraggio rapido. Base rotante 360° per massima versatilità.",
+      "price": 65.00,
+      "images": [
+        "https://images.unsplash.com/photo-1609205994399-d0e6b2b5f05c?w=400&h=300&fit=crop"
+      ],
+      "category": "Ferramenta",
+      "brand": "Stanley",
+      "specifications": {
+        "Apertura": "125mm",
+        "Materiale": "Ghisa",
+        "Ganasce": "Temprate",
+        "Rotazione": "360°",
+        "Peso": "8.5kg"
+      },
+      "inStock": true,
+      "rating": 4.5
+    },
+    {
+      "Id": 7,
+      "name": "Livella Laser Autolivellante",
+      "description": "Livella laser professionale autolivellante con raggio rosso visibile, modalità orizzontale e verticale, precisione ±3mm/10m. Include treppiede e valigetta.",
+      "price": 89.00,
+      "images": [
+        "https://images.unsplash.com/photo-1558618047-3c8c76ca7d13?w=400&h=300&fit=crop"
+      ],
+      "category": "Strumenti di Misura",
+      "brand": "Bosch",
+      "specifications": {
+        "Tipo": "Autolivellante",
+        "Raggio": "Rosso visibile",
+        "Precisione": "±3mm/10m",
+        "Modalità": "Orizzontale/Verticale",
+        "Accessori": "Treppiede, valigetta"
+      },
+      "inStock": true,
+      "rating": 4.8
+    },
+    {
+      "Id": 8,
+      "name": "Smerigliatrice Angolare 125mm",
+      "description": "Smerigliatrice angolare compatta 750W con disco 125mm, protezione regolabile, impugnatura ergonomica e sistema di sicurezza.",
+      "price": 55.99,
+      "images": [
+        "https://images.unsplash.com/photo-1516298773066-c48f8e9bd92b?w=400&h=300&fit=crop"
+      ],
+      "category": "Elettroutensili",
+      "brand": "Makita",
+      "specifications": {
+        "Potenza": "750W",
+        "Disco": "125mm",
+        "Velocità": "11000 giri/min",
+        "Peso": "1.8kg",
+        "Protezione": "Regolabile"
+      },
+      "inStock": true,
+      "rating": 4.6
+    },
+    {
+      "Id": 9,
+      "name": "Cacciaviti Professionali Set 12 Pezzi",
+      "description": "Set cacciaviti professionali con punte magnetiche, manici ergonomici antiscivolo e punta temperata. Include taglio e croce in varie misure.",
+      "price": 22.50,
+      "images": [
+        "https://images.unsplash.com/photo-1609205994399-d0e6b2b5f05c?w=400&h=300&fit=crop"
+      ],
+      "category": "Utensili Manuali",
+      "brand": "Stanley",
+      "specifications": {
+        "Numero pezzi": "12",
+        "Tipi": "Taglio e croce",
+        "Punte": "Magnetiche temprate",
+        "Manici": "Ergonomici antiscivolo",
+        "Misure": "Varie"
+      },
+      "inStock": true,
+      "rating": 4.5
+    },
+    {
+      "Id": 10,
+      "name": "Tasselli Fischer Mix 100 Pezzi",
+      "description": "Assortimento di tasselli Fischer per tutti i tipi di muratura, include tasselli universali, per cartongesso e per materiali forati. Con viti incluse.",
+      "price": 15.99,
+      "images": [
+        "https://images.unsplash.com/photo-1609205994399-d0e6b2b5f05c?w=400&h=300&fit=crop"
+      ],
+      "category": "Ferramenta",
+      "brand": "Fischer",
+      "specifications": {
+        "Numero pezzi": "100",
+        "Tipi": "Universali, cartongesso, forati",
+        "Materiale": "Nylon",
+        "Viti": "Incluse",
+        "Applicazioni": "Tutti i tipi di muratura"
+      },
+      "inStock": true,
+      "rating": 4.7
+    },
+    {
+      "Id": 11,
+      "name": "Levigatrice Orbitale 200W",
+      "description": "Levigatrice orbitale compatta per finiture precise, sistema di aspirazione polvere, base in velcro per cambio rapido carta abrasiva.",
+      "price": 45.00,
+      "images": [
+        "https://images.unsplash.com/photo-1558618047-3c8c76ca7d13?w=400&h=300&fit=crop"
+      ],
+      "category": "Elettroutensili",
+      "brand": "Bosch",
+      "specifications": {
+        "Potenza": "200W",
+        "Tipo": "Orbitale",
+        "Base": "Velcro",
+        "Aspirazione": "Sì",
+        "Peso": "1.2kg"
+      },
+      "inStock": false,
+      "rating": 4.3
+    },
+    {
+      "Id": 12,
+      "name": "Metro Laser 40m",
+      "description": "Distanziometro laser professionale con portata 40m, display retroilluminato, calcolo di aree e volumi, memoria per 20 misurazioni.",
+      "price": 69.99,
+      "images": [
+        "https://images.unsplash.com/photo-1558618047-3c8c76ca7d13?w=400&h=300&fit=crop"
+      ],
+      "category": "Strumenti di Misura",
+      "brand": "Bosch",
+      "specifications": {
+        "Portata": "40m",
+        "Precisione": "±1.5mm",
+        "Display": "Retroilluminato",
+        "Funzioni": "Area, volume, memoria",
+        "Memoria": "20 misurazioni"
+      },
+      "inStock": true,
+      "rating": 4.8
+    },
+    {
+      "Id": 13,
+      "name": "Chiavi a Bussola Set 46 Pezzi",
+      "description": "Set completo di chiavi a bussola con cricchetto reversibile, bussole da 8 a 32mm, prolunga e giunto cardanico. Valigetta in metallo inclusa.",
+      "price": 78.00,
+      "images": [
+        "https://images.unsplash.com/photo-1609205994399-d0e6b2b5f05c?w=400&h=300&fit=crop"
+      ],
+      "category": "Utensili Manuali",
+      "brand": "Stanley",
+      "specifications": {
+        "Numero pezzi": "46",
+        "Bussole": "8-32mm",
+        "Cricchetto": "Reversibile",
+        "Accessori": "Prolunga, giunto cardanico",
+        "Valigetta": "Metallo"
+      },
+      "inStock": true,
+      "rating": 4.9
+    },
+    {
+      "Id": 14,
+      "name": "Pistola per Silicone Professionale",
+      "description": "Pistola per silicone professionale con sistema di taglio automatico, regolazione della pressione e supporto per cartucce standard da 310ml.",
+      "price": 12.99,
+      "images": [
+        "https://images.unsplash.com/photo-1609205994399-d0e6b2b5f05c?w=400&h=300&fit=crop"
+      ],
+      "category": "Utensili Manuali",
+      "brand": "Fischer",
+      "specifications": {
+        "Tipo": "Professionale",
+        "Cartucce": "310ml standard",
+        "Taglio": "Automatico",
+        "Regolazione": "Pressione variabile",
+        "Materiale": "Alluminio"
+      },
+      "inStock": true,
+      "rating": 4.4
+    },
+    {
+      "Id": 15,
+      "name": "Seghe da Legno Set 3 Pezzi",
+      "description": "Set di seghe da legno con dentature diverse per taglio di precisione, impugnature ergonomiche e lame in acciaio temprato al carbonio.",
+      "price": 32.00,
+      "images": [
+        "https://images.unsplash.com/photo-1609205994399-d0e6b2b5f05c?w=400&h=300&fit=crop"
+      ],
+      "category": "Utensili Manuali",
+      "brand": "Stanley",
+      "specifications": {
+        "Numero pezzi": "3",
+        "Dentature": "Diverse",
+        "Lame": "Acciaio temprato al carbonio",
+        "Impugnature": "Ergonomiche",
+        "Applicazione": "Legno"
+      },
+      "inStock": true,
+      "rating": 4.6
+    },
+    {
+      "Id": 16,
+      "name": "Avvitatore a Impulsi 18V",
+      "description": "Avvitatore a impulsi compatto con batteria 18V, coppia 140Nm, LED di illuminazione e sistema di controllo elettronico della velocità.",
+      "price": 119.99,
+      "images": [
+        "https://images.unsplash.com/photo-1573089030373-0e05fa4e0cfc?w=400&h=300&fit=crop"
+      ],
+      "category": "Elettroutensili",
+      "brand": "Makita",
+      "specifications": {
+        "Tensione": "18V",
+        "Coppia": "140Nm",
+        "Illuminazione": "LED",
+        "Controllo": "Elettronico",
+        "Peso": "1.3kg"
+      },
+      "inStock": true,
+      "rating": 4.9
+    },
+    {
+      "Id": 17,
+      "name": "Pinze Universali Set 4 Pezzi",
+      "description": "Set pinze professionali con impugnature isolate, taglienti laterali temperati e sistema di bloccaggio. Include universali, becchi e spelafili.",
+      "price": 26.50,
+      "images": [
+        "https://images.unsplash.com/photo-1609205994399-d0e6b2b5f05c?w=400&h=300&fit=crop"
+      ],
+      "category": "Utensili Manuali",
+      "brand": "Stanley",
+      "specifications": {
+        "Numero pezzi": "4",
+        "Impugnature": "Isolate",
+        "Taglienti": "Temperati",
+        "Tipi": "Universali, becchi, spelafili",
+        "Bloccaggio": "Sistema incluso"
+      },
+      "inStock": true,
+      "rating": 4.5
+    },
+    {
+      "Id": 18,
+      "name": "Scala Telescopica 3.8m",
+      "description": "Scala telescopica in alluminio con sistema di bloccaggio automatico, piedini antiscivolo e capacità di carico 150kg. Compatta e maneggevole.",
+      "price": 89.00,
+      "images": [
+        "https://images.unsplash.com/photo-1609205994399-d0e6b2b5f05c?w=400&h=300&fit=crop"
+      ],
+      "category": "Attrezzature",
+      "brand": "Hailo",
+      "specifications": {
+        "Altezza": "3.8m",
+        "Materiale": "Alluminio",
+        "Bloccaggio": "Automatico",
+        "Carico": "150kg",
+        "Piedini": "Antiscivolo"
+      },
+      "inStock": true,
+      "rating": 4.7
+    },
+    {
+      "Id": 19,
+      "name": "Multimetro Digitale",
+      "description": "Multimetro digitale per misurazioni elettriche, display LCD, test di continuità, misurazione AC/DC, resistenza e capacità.",
+      "price": 39.99,
+      "images": [
+        "https://images.unsplash.com/photo-1558618047-3c8c76ca7d13?w=400&h=300&fit=crop"
+      ],
+      "category": "Strumenti di Misura",
+      "brand": "Fluke",
+      "specifications": {
+        "Display": "LCD",
+        "Misurazioni": "AC/DC, resistenza, capacità",
+        "Continuità": "Sì",
+        "Sicurezza": "CAT II 600V",
+        "Alimentazione": "Batteria 9V"
+      },
+      "inStock": true,
+      "rating": 4.6
+    },
+    {
+      "Id": 20,
+      "name": "Aspirapolvere da Cantiere 1200W",
+      "description": "Aspirapolvere professionale per cantiere con potenza 1200W, serbatoio 20L, filtro HEPA e accessori per liquidi e solidi.",
+      "price": 149.00,
+      "images": [
+        "https://images.unsplash.com/photo-1558618047-3c8c76ca7d13?w=400&h=300&fit=crop"
+      ],
+      "category": "Elettroutensili",
+      "brand": "Kärcher",
+      "specifications": {
+        "Potenza": "1200W",
+        "Serbatoio": "20L",
+        "Filtro": "HEPA",
+        "Applicazioni": "Liquidi e solidi",
+        "Accessori": "Kit completo"
+      },
+      "inStock": false,
+      "rating": 4.8
+    }
+  ]
+}
