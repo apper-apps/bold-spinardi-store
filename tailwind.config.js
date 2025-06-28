@@ -45,21 +45,17 @@ export default {
           300: '#4DD0E1',
           400: '#26C6DA',
           500: '#00BCD4',
-600: '#00ACC1',
+          600: '#00ACC1',
           700: '#0097A7',
           800: '#00838F',
           900: '#006064',
         },
-        gray: {
-          50: '#F9FAFB',
-          surface: '#ECEFF1',
-          background: '#FAFAFA',
-        },
-        border: {
-          DEFAULT: 'hsl(var(--border))',
-        }
+        surface: '#ECEFF1',
+        background: '#FAFAFA',
       },
       backgroundImage: {
+        'gradient-primary': 'linear-gradient(135deg, #FF5722 0%, #FF7043 100%)',
+        'gradient-secondary': 'linear-gradient(135deg, #263238 0%, #37474F 100%)',
         'gradient-accent': 'linear-gradient(135deg, #00BCD4 0%, #26C6DA 100%)',
         'gradient-hero': 'linear-gradient(135deg, #FF5722 0%, #263238 50%, #00BCD4 100%)',
         'gradient-overlay': 'linear-gradient(180deg, rgba(0,0,0,0) 0%, rgba(38,50,56,0.8) 100%)',
@@ -80,10 +76,6 @@ export default {
           '50%': { transform: 'translateY(-10px)' },
         }
       }
-    },
-    borderColor: {
-      border: 'hsl(var(--border))',
-      DEFAULT: 'hsl(var(--border))',
     },
   },
   plugins: [],
